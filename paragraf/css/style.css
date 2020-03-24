@@ -1,0 +1,11 @@
+.navbar {
+    /* border-bottom: 1px solid #9b1521; */
+}
+.bg-custom {
+     /* background-image: linear-gradient(#226e9d 0%, #4f7fb2 40%, #8197b7 100%); */
+}
+    
+#main {
+    margin-top:55px;
+    min-height:800px;
+}
